@@ -13,7 +13,8 @@ This list highlights free game assets for making Unity or 3D games. To contribut
 * https://opengameart.org/
 * https://www.glitchthegame.com/public-domain-game-art/
 
-# Icons
+## Icons
+* https://hotpot.ai/free_icons
 * https://game-icons.net/
 * https://www.clipsafari.com/
 
@@ -51,6 +52,13 @@ This list highlights free game assets for making Unity or 3D games. To contribut
 * https://www.freesfx.co.uk/
 * https://www.zapsplat.com/
 * https://gamesounds.xyz
+* https://freemusicarchive.org/
+* https://incompetech.com/music/
+* https://archive.org/details/nasaaudiocollection
+* http://soundbible.com/
+
+## Color Helpers
+* https://hotpot.ai/assistant/color_assistant
 
 ## Music
 * https://www.newgrounds.com/audio/
