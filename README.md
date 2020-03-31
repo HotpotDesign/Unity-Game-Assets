@@ -12,6 +12,7 @@ This list highlights free game assets for making Unity or 3D games. To contribut
 * https://kenney.nl/
 * https://opengameart.org/
 * https://www.glitchthegame.com/public-domain-game-art/
+* https://itch.io/game-assets/free
 
 ## Icons
 * https://hotpot.ai/free_icons
