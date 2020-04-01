@@ -13,6 +13,8 @@ This list highlights free game assets for making Unity or 3D games. To contribut
 * https://opengameart.org/
 * https://www.glitchthegame.com/public-domain-game-art/
 * https://itch.io/game-assets/free
+* https://www.gameart2d.com/freebies.html
+* https://www.gameartguppy.com/
 
 ## Icons
 * https://hotpot.ai/free_icons
@@ -25,6 +27,7 @@ This list highlights free game assets for making Unity or 3D games. To contribut
 * http://freegameassets.blogspot.com/
 * http://unluckystudio.com/category/freegameart/
 * https://www.reinerstilesets.de/
+* https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838?aid=1101lPGj&utm_source=aff
 
 ## Sprites
 * http://untamed.wild-refuge.net/rpgxp.php
@@ -65,9 +68,16 @@ This list highlights free game assets for making Unity or 3D games. To contribut
 * https://www.newgrounds.com/audio/
 * http://dig.ccmixter.org/
 
+## Fonts
+* https://fonts.google.com/
+* https://fontlibrary.org/
+* https://www.dafont.com/alpha.php?ll%5b%5d=10&l%5b%5d=1
+* https://www.freechinesefont.com/
+* https://chinesefontdesign.com/
+* https://cooltext.com/Fonts-Unicode-Chinese
+
 ## Miscellaneous
 * https://quickdraw.withgoogle.com/data
-* https://www.gameart2d.com/freebies.html
 
 ## Credits
 This list builds upon these lists made by others:
