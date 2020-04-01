@@ -4,7 +4,7 @@ This tutorial is written by [Hotpot.ai](https://hotpot.ai?s=unity_game_assets). 
 This guide was originally posted on [Hotpot.ai](https://hotpot.ai?s=unity_game_assets), and is cross-referenced here for developer convenience.
 
 ## Overview
-This list highlights free game assets for making Unity or 3D games. To contribute to this list, please make a pull request.
+This list highlights free game assets for making Unity, 2D, or 3D games. To contribute to this list, please make a pull request.
 
 ## General Assets
 
