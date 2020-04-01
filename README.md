@@ -26,6 +26,13 @@ This list highlights free game assets for making Unity, 2D, or 3D games. To cont
 * https://material.io/resources/icons/?style=baseline
 * https://thenounproject.com/
 * https://game-icons.net/
+* https://www.flaticon.com/
+* http://fontello.com/
+* https://iconstore.co/
+* https://iconsvg.xyz/
+* https://illustrio.com/
+* https://ionicons.com/
+* https://simpleicons.org/
 
 ## General Graphics
 * https://craftpix.net/freebies/
@@ -49,6 +56,20 @@ This list highlights free game assets for making Unity, 2D, or 3D games. To cont
 
 ## Illustrations
 * https://joeschmoe.io/
+* https://iconscout.com/
+* https://www.blobmaker.app/
+* https://www.humaaans.com/
+* https://iradesign.io/
+* https://github.com/MariaLetta/mega-doodles-pack
+* https://icons8.com/ouch
+
+## Animations
+* https://ionicons.com/
+
+## Pixel Tools
+* https://www.aseprite.org/
+* https://www.piskelapp.com/
+* http://app.poxi.rocks/
 
 ## 3D
 * https://poly.google.com/
@@ -72,6 +93,11 @@ This list highlights free game assets for making Unity, 2D, or 3D games. To cont
 * https://incompetech.com/music/
 * https://archive.org/details/nasaaudiocollection
 * http://soundbible.com/
+* https://www.bensound.com/
+* https://icons8.com/music
+* https://sonic-pi.net/
+* https://www.youtube.com/audiolibrary/music?nv=1
+* https://www.unminus.com/
 
 ## Color Helpers
 * https://hotpot.ai/assistant/color_assistant
