@@ -62,6 +62,7 @@ This list highlights free game assets for making Unity, 2D, or 3D games. To cont
 * https://iradesign.io/
 * https://github.com/MariaLetta/mega-doodles-pack
 * https://icons8.com/ouch
+* https://isometric.online/
 
 ## Animations
 * https://ionicons.com/
