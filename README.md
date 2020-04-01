@@ -15,11 +15,17 @@ This list highlights free game assets for making Unity, 2D, or 3D games. To cont
 * https://itch.io/game-assets/free
 * https://www.gameart2d.com/freebies.html
 * https://www.gameartguppy.com/
+* https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838
+* https://lonegamedevs.com/
+* http://devassets.com/
 
 ## Icons
 * https://hotpot.ai/free_icons
 * https://game-icons.net/
 * https://www.clipsafari.com/
+* https://material.io/resources/icons/?style=baseline
+* https://thenounproject.com/
+* https://game-icons.net/
 
 ## General Graphics
 * https://craftpix.net/freebies/
@@ -34,10 +40,15 @@ This list highlights free game assets for making Unity, 2D, or 3D games. To cont
 * https://www.widgetworx.com/spritelib/
 
 ## Backgrounds & Patterns
+* https://coolbackgrounds.io/
+* http://generative-placeholders.glitch.me/
 * https://www.toptal.com/designers/subtlepatterns/
 
 ## Textures
 * https://www.textures.com/
+
+## Illustrations
+* https://joeschmoe.io/
 
 ## 3D
 * https://poly.google.com/
@@ -52,6 +63,7 @@ This list highlights free game assets for making Unity, 2D, or 3D games. To cont
 * https://nasa3d.arc.nasa.gov/
 
 ## Sounds
+* https://www.myinstants.com/index/us/
 * https://freesound.org/
 * https://www.freesfx.co.uk/
 * https://www.zapsplat.com/
@@ -71,13 +83,17 @@ This list highlights free game assets for making Unity, 2D, or 3D games. To cont
 ## Fonts
 * https://fonts.google.com/
 * https://fontlibrary.org/
-* https://www.dafont.com/alpha.php?ll%5b%5d=10&l%5b%5d=1
+* https://www.dafont.com/
 * https://www.freechinesefont.com/
 * https://chinesefontdesign.com/
 * https://cooltext.com/Fonts-Unicode-Chinese
+* https://www.haleyfiege.fun/fonts
+* https://www.typewolf.com/
+* https://muffingroup.com/blog/best-free-fonts/
 
 ## Miscellaneous
 * https://quickdraw.withgoogle.com/data
+* https://github.com/YarnSpinnerTool/YarnSpinner
 
 ## Credits
 This list builds upon these lists made by others:
