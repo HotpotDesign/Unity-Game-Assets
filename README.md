@@ -4,7 +4,10 @@ This tutorial is written by [Hotpot.ai](https://hotpot.ai?s=unity_game_assets). 
 This guide was originally posted on [Hotpot.ai](https://hotpot.ai?s=unity_game_assets), and is cross-referenced here for developer convenience.
 
 ## Overview
-This list highlights free game assets for making Unity, 2D, or 3D games. To contribute to this list, please make a pull request.
+This list highlights free game assets for making Unity, 2D, or 3D games.
+
+## List Suggestions
+To add to or remove items from this list, please make a pull request.
 
 ## General Assets
 
@@ -21,9 +24,10 @@ This list highlights free game assets for making Unity, 2D, or 3D games. To cont
 
 ## Icons
 * https://hotpot.ai/free_icons
+* https://material.io/resources/icons/?style=baseline
+* https://www.svgrepo.com/
 * https://game-icons.net/
 * https://www.clipsafari.com/
-* https://material.io/resources/icons/?style=baseline
 * https://thenounproject.com/
 * https://game-icons.net/
 * https://www.flaticon.com/
@@ -40,7 +44,6 @@ This list highlights free game assets for making Unity, 2D, or 3D games. To cont
 * http://freegameassets.blogspot.com/
 * http://unluckystudio.com/category/freegameart/
 * https://www.reinerstilesets.de/
-* https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838?aid=1101lPGj&utm_source=aff
 
 ## Sprites
 * http://untamed.wild-refuge.net/rpgxp.php
@@ -50,6 +53,15 @@ This list highlights free game assets for making Unity, 2D, or 3D games. To cont
 * https://coolbackgrounds.io/
 * http://generative-placeholders.glitch.me/
 * https://www.toptal.com/designers/subtlepatterns/
+* https://philiprogers.com/svgpatterns/
+* https://trianglify.io/
+* http://www.stripegenerator.com/
+* http://btmills.github.io/geopattern/
+* http://www.heropatterns.com/
+* https://getwaves.io/
+
+## Buttons & Badges
+* https://www.imagefu.com/
 
 ## Textures
 * https://www.textures.com/
@@ -74,6 +86,7 @@ This list highlights free game assets for making Unity, 2D, or 3D games. To cont
 
 ## 3D
 * https://poly.google.com/
+* https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-115747
 * https://free3d.com/
 * https://sketchfab.com/
 * https://www.turbosquid.com/
@@ -83,6 +96,7 @@ This list highlights free game assets for making Unity, 2D, or 3D games. To cont
 * https://www.cgtrader.com/
 * https://www.tinkercad.com/things 
 * https://nasa3d.arc.nasa.gov/
+* https://www.blendernation.com/category/art/free-blender-models/
 
 ## Sounds
 * https://www.myinstants.com/index/us/
