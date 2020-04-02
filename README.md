@@ -10,7 +10,6 @@ This list highlights free game assets for making Unity, 2D, or 3D games.
 To add to or remove items from this list, please make a pull request.
 
 ## General Assets
-
 * https://unitylist.com
 * https://kenney.nl/
 * https://opengameart.org/
@@ -21,6 +20,8 @@ To add to or remove items from this list, please make a pull request.
 * https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838
 * https://lonegamedevs.com/
 * http://devassets.com/
+* https://github.com/sparklinlabs/superpowers-asset-packs
+* * https://craftpix.net/freebies/
 
 ## Icons
 * https://hotpot.ai/free_icons
@@ -39,7 +40,6 @@ To add to or remove items from this list, please make a pull request.
 * https://simpleicons.org/
 
 ## General Graphics
-* https://craftpix.net/freebies/
 * http://www.supergameasset.com/free-game-assets
 * http://freegameassets.blogspot.com/
 * http://unluckystudio.com/category/freegameart/
@@ -63,8 +63,16 @@ To add to or remove items from this list, please make a pull request.
 ## Buttons & Badges
 * https://www.imagefu.com/
 
-## Textures
+## Textures & Tiles
 * https://www.textures.com/
+* https://gametextures.com/shop
+* https://quixel.com/megascans/home
+* https://sites.google.com/site/freeseamlesstextures/home
+* https://www.reinerstilesets.de/graphics/texturen/bark/
+* http://telias.free.fr/textures_menu.html
+* https://cpetry.github.io/TextureGenerator-Online/
+* https://tilesetter.org/
+* https://www.codeandweb.com/texturepacker
 
 ## Illustrations
 * https://joeschmoe.io/
@@ -79,10 +87,11 @@ To add to or remove items from this list, please make a pull request.
 ## Animations
 * https://ionicons.com/
 
-## Pixel Tools
+## Pixel Art & Tools
 * https://www.aseprite.org/
 * https://www.piskelapp.com/
 * http://app.poxi.rocks/
+* https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453
 
 ## 3D
 * https://poly.google.com/
@@ -97,6 +106,8 @@ To add to or remove items from this list, please make a pull request.
 * https://www.tinkercad.com/things 
 * https://nasa3d.arc.nasa.gov/
 * https://www.blendernation.com/category/art/free-blender-models/
+* https://ephtracy.github.io/
+* http://www.minddesk.com/index.php
 
 ## Sounds
 * https://www.myinstants.com/index/us/
@@ -135,6 +146,13 @@ To add to or remove items from this list, please make a pull request.
 ## Miscellaneous
 * https://quickdraw.withgoogle.com/data
 * https://github.com/YarnSpinnerTool/YarnSpinner
+
+## Databases & Servers
+* https://firebase.google.com/
+
+## Editors
+* https://www.mapeditor.org/
+* http://boundingboxsoftware.com/materialize/
 
 ## Credits
 This list builds upon these lists made by others:
